@@ -4,7 +4,7 @@
 
 I build clean, scalable, and user-friendly web applications using modern technologies and best practices.
 
-** Contact me on [LinkedIn](https://www.linkedin.com/in/aleksandar-veljkovic-0a4bba291/)**
+**Contact me on [LinkedIn](https://www.linkedin.com/in/aleksandar-veljkovic-0a4bba291/)**
 
 ---
 
