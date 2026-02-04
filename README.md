@@ -1,4 +1,4 @@
-# Aleksandar Veljkovic 👋
+# Aleksandar Veljkovic
 
 **Web Developer | PHP & JavaScript/TypeScript Enthusiast**
 
