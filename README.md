@@ -1,6 +1,6 @@
 # Aleksandar Veljkovic
 
-**Web Developer | PHP & JavaScript/TypeScript Enthusiast**
+**PHP Developer**
 
 I build clean, scalable, and user-friendly web applications using modern technologies and best practices.
 
