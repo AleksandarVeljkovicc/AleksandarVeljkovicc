@@ -1,6 +1,6 @@
 # Aleksandar Veljkovic
 
-**PHP Developer**
+**Full-Stack Developer | PHP, Laravel & React**
 
 I build clean, scalable, and user-friendly web applications using modern technologies and best practices.
 
